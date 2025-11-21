@@ -32,6 +32,4 @@ else if (xp <= 10000) {
 else {
     rank = "Radiante"
 }
-console.log("Olá " + nomeHeroi + "!!!")
-console.log("Você tem " + xp + " de XP!")
-console.log("Você está no Rank " + rank + "\n")
+console.log("O Herói " + nomeHeroi + " está no nível de " + rank)
